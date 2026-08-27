@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Karan-lab-collab/Leetcodeprogress/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/Karan-lab-collab/Leetcodeprogress/tree/master/0605-can-place-flowers) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Karan-lab-collab/Leetcodeprogress/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1732-find-the-highest-altitude](https://github.com/Karan-lab-collab/Leetcodeprogress/tree/master/1732-find-the-highest-altitude) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Karan-lab-collab/Leetcodeprogress/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Greedy
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Karan-lab-collab/Leetcodeprogress/tree/master/0238-product-of-array-except-self) |
+| [1732-find-the-highest-altitude](https://github.com/Karan-lab-collab/Leetcodeprogress/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
 | ------- |

@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Karan-lab-collab/Leetcodeprogress/tree/master/0011-container-with-most-water) |
+| [0078-subsets](https://github.com/Karan-lab-collab/Leetcodeprogress/tree/master/0078-subsets) |
 | [0238-product-of-array-except-self](https://github.com/Karan-lab-collab/Leetcodeprogress/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Karan-lab-collab/Leetcodeprogress/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/Karan-lab-collab/Leetcodeprogress/tree/master/0605-can-place-flowers) |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Karan-lab-collab/Leetcodeprogress/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Karan-lab-collab/Leetcodeprogress/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Karan-lab-collab/Leetcodeprogress/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
